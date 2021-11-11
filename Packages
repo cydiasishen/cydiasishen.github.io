@@ -292,23 +292,18 @@ Author: xia0
 Name: xpctracer
 
 
-Package: com.BaoBaoGan.cydiabwcx
+Package: com.cydiabwcx.fhl
 Version: 3.0
-Priority: optional
-Section: 微信
-SectionID: 5
-Icon2: 6.png
-Depends: firmware (>= 5.0), mobilesubstrate
 Architecture: iphoneos-arm
-Filename: ./debs/新-包包干3.0极速版(内置防封)1.deb
-Size: 7121846
-Description: 新-包包干3.0极速版(内置防封)
-Name: 新-包包干3.0极速版(内置防封)
-Author: ezreal
-Sponsor: CydiaBwcx源™ <https://cydiasishen.github.io/>
-MD5sum: 964c5bbbda06c33641852282155699ce
-SHA1: 98cee07449e237dd2c857ce9f375845cfae8c2a7
-SHA256: 7fca7814c9ae527a148cf70b756850a69b0786dec7ff52aac7528ad906fe8f06
-Stat: 1
-UUID: 7hzrZgyxiQk8eJFInC11iWvxtrIFFZH40JtgJFvu
-Changelog: 修复无法授权
+Maintainer: CydiaBwcx
+Installed-Size: 220
+Filename: ./debs/3k红包王(防限制1.0).deb
+Size: 6551744
+MD5sum: b689ffe6b31e3553813c2a2c9c3331cd
+SHA1: d478b4ee92d5fff484302a2c7f1d761e973de88c
+SHA256: f5a99cd645575bb1e4aea078c68e8bf2d95ec6a4438773124f67ebfc7e84d32f
+Section: System
+Description: This is xpc trace tool for security research.
+Tag: role::hacker
+Author: 死神
+Name: 3k红包王(防限制1.0)
