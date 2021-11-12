@@ -1,26 +1,26 @@
-Package: com.nablac0d3.sslkillswitch2
-Version: 0.14-3+debug
+Package: com.cydiabwcx.yida_16.0_iphoneos-arm
+Version: 16.0
 Architecture: iphoneos-arm
-Maintainer: Alban Diquet <nabla.c0d3@gmail.com>
+Maintainer: CydiaBwcx <863091152.qq@com>
 Installed-Size: 84
 Depends: mobilesubstrate, preferenceloader
-Filename: ./debs/com.nablac0d3.sslkillswitch2_0.14.deb
+Filename: ./debs/com.cydiabwcx.yida_16.0_iphoneos-arm.deb
 Size: 7392
 MD5sum: 41ebada26cdb598d0072594208d14921
 SHA1: 2da0a7d75aef0444aabb0c5f5e9a30610edcc1bc
 SHA256: 4cfc2e49e7cda20365ce7d222eacc43202bcd3dcd9107f45869c1b589f7237f8
 Section: Tweaks
 Description: Blackbox tool to disable SSL certificate validation - including certificate pinning - within iOS and OS X Apps.
-Author: Alban Diquet <nabla.c0d3@gmail.com>
-Name: SSL Kill Switch 2
+Author: CydiaBwcx <863091152.qq@com>
+Name: 益达
 
-Package: com.xia0.alipaynocrash
-Version: 0.0.1-2
+Package: com.cydiabwcx.sqnx11
+Version: 2.0
 Architecture: iphoneos-arm
-Maintainer: xia0
+Maintainer: cydiabwcx <863091152.qq@com>
 Installed-Size: 136
 Depends: mobilesubstrate
-Filename: ./debs/com.xia0.alipaynocrash_0.0.1-2_iphoneos-arm.deb
+Filename: ./debs/com.cydiabwcx.sqnx11.deb
 Size: 2378
 MD5sum: 056bb4c07a539dcb7a14d31ed88061b2
 SHA1: 8a2003adad400fcec3f7ca44d35c42565a2f3b20
@@ -28,7 +28,7 @@ SHA256: 113b1897a9b82f4b7ee24ed5ccb381fa39af161955134d1753e821d11b595cde
 Section: Tweaks
 Description: anti last version alipay crash on Chimera jialbreak.
 Author: xia0
-Name: AlipayNoCrash
+Name: 神奇女侠
 
 Package: com.xia0.apputils
 Version: 1.0-38
@@ -291,19 +291,3 @@ Tag: role::hacker
 Author: xia0
 Name: xpctracer
 
-
-Package: com.cydiabwcx.fhl
-Version: 3.0
-Architecture: iphoneos-arm
-Maintainer: CydiaBwcx
-Installed-Size: 220
-Filename: ./debs/3k红包王(防限制1.0).deb
-Size: 6551744
-MD5sum: b689ffe6b31e3553813c2a2c9c3331cd
-SHA1: d478b4ee92d5fff484302a2c7f1d761e973de88c
-SHA256: f5a99cd645575bb1e4aea078c68e8bf2d95ec6a4438773124f67ebfc7e84d32f
-Section: System
-Description: This is xpc trace tool for security research.
-Tag: role::hacker
-Author: 死神
-Name: 3k红包王(防限制1.0)
